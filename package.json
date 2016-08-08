@@ -1,0 +1,25 @@
+{
+	"name":"fish-collector",
+	"description":"Data collectors framework",
+	"version":"0.0.1",
+	"private":false,
+	"author":"David Hediant <hediant@gmail.com>",
+	"contributors":[
+	],
+	"keywords":[
+		"data",
+		"collectors",
+		"framework"
+	],
+	"dependencies":{
+		"q":"1.4.1",
+		"moment":"2.12.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.thinglinx.net/hediant/fish-collector.git"
+	},	
+	"engines": {
+		"node": ">= 0.10.0"
+	}
+}
